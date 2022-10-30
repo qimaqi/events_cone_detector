@@ -16,6 +16,6 @@ In this work we use yolov5 as the object detection model since its fast inferenc
 Input 
 <img src="./asset/Events_input.gif" alt="drawing" width="600"/>  
 Events time surface
-<img src="./BNN_seg_asset/CamVid/Events_detection.gif" alt="drawing" width="600"/> 
+<img src="./asset/Events_detection.gif" alt="drawing" width="600"/> 
 Detection result
 
