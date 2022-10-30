@@ -12,10 +12,10 @@ In this work we use yolov5 as the object detection model since its fast inferenc
 ## Some results
 ### Result of Events Yolov5 detection
 
-<img src="./asset/rgb.gif" alt="drawing" width="600"/>  
+<img src="./asset/rgb.gif" alt="drawing" width="800"/>  
 Input 
-<img src="./asset/Events_input.gif" alt="drawing" width="600"/>  
+<img src="./asset/Events_input.gif" alt="drawing" width="1000"/>  
 Events time surface
-<img src="./asset/Events_detection.gif" alt="drawing" width="600"/> 
+<img src="./asset/Events_detection.gif" alt="drawing" width="800"/> 
 Detection result
 
