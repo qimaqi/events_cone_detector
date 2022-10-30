@@ -34,7 +34,7 @@ python SAE_dataset_generator.py txt_path timestamps_path
 ```
 You will get timesurface like 
 
-<img src="./asset/time_surface" alt="drawing" width="1000"/> 
+<img src="./asset/time_surface.png" alt="drawing" width="1000"/> 
 
 More details about timesurface representation can be checked [here](https://www.neuromorphic-vision.com/public/publications/1/publication.pdf)
 
